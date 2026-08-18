@@ -5,7 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is [Jason Torres]
+Hi! My name is Jason Torres
 
 ### Development Environment
 
